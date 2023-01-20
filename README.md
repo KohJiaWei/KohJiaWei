@@ -2,6 +2,7 @@
 <a href="https://kohjiawei.github.io/"><img align="middle" width="50" src="https://media.tenor.com/x2XR-ry0FR8AAAAi/maplestory-pink-bean.gif"></a>
 <a href="https://www.sos.org.sg/"><img align="right" width="120" style="vertical-align:middle;margin:0px 50px" src="https://media.tenor.com/X7QofDb7Lu4AAAAC/gpa-gpa-drop.gif"></a>
 
+<br> </br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=KohJiaWei&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=b24bf3&ring=ffdd4c&border=ffd700)](https://www.linkedin.com/in/kohjiawei#gh-dark-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KohJiaWei&theme=default&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=b24bf3&ring=ffdd4c&border=ffd700)](https://www.linkedin.com/in/kohjiawei#gh-light-mode-only)
@@ -24,9 +25,8 @@
 <!-- <a><img align="left" width="500" height="400" src="https://media.tenor.com/di4L-rP01kYAAAAC/pixel-art-water-falls.gif"></a> -->
 <!-- <a><img align="left" width="250" height="400" src="https://media.tenor.com/L0ExwySKHtMAAAAC/purple-aesthetic-purple.gif"></a> -->
 
-
 <!-- Video Game Theme -->
-##### What every semester feels like
+##### What every semester feels like 📉📉📉
 <a href="https://www.youtube.com/watch?v=Kjhyyf1CB4U"><img align="left" width="500" src="https://media.tenor.com/Jo3dyzR9iuwAAAAd/pixel-video-game.gif"></a>
 
 
