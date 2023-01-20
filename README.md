@@ -10,7 +10,7 @@
  -->
 <!-- <a href="https://tenor.com/view/mushroom-happy-orange-cute-smile-gif-14450265"><img align="left" width="120" src="https://media.tenor.com/d-zddNq2wYAAAAAi/mushroom-happy.gif"></a> -->
 
-<a href="https://tenor.com/view/pepe-maplestory-gif-22998904"><img align="right" width="120" src="https://media.tenor.com/Y5CqvbxD-DsAAAAi/pepe-maplestory.gif"></a>
+<a href="https://tenor.com/view/pepe-maplestory-gif-22998904"><img align="right" width="120" style="vertical-align:middle;margin:0px 50px" src="https://media.tenor.com/Y5CqvbxD-DsAAAAi/pepe-maplestory.gif"></a>
 
 <!-- <a href="https://tenor.com/view/pepe-maplestory-gif-22998904"><img align="left" width="700" height="500" src="https://orangemushroom.files.wordpress.com/2019/07/scroll-dream-garden-effect.gif?w=594&zoom=2"></a> -->
 <!-- I just want to Iframe my gpa :( --!>
