@@ -26,7 +26,7 @@
 <!-- <a><img align="left" width="250" height="400" src="https://media.tenor.com/L0ExwySKHtMAAAAC/purple-aesthetic-purple.gif"></a> -->
 
 <!-- Video Game Theme -->
-##### What every semester feels like 📉📉📉
+##### How every semester feels like 📉📉📉
 <a href="https://www.youtube.com/watch?v=Kjhyyf1CB4U"><img align="left" width="500" src="https://media.tenor.com/Jo3dyzR9iuwAAAAd/pixel-video-game.gif"></a>
 
 
