@@ -1,6 +1,6 @@
 ### Hello. Thanks for visiting my Github Page. 💬
-<a><img align="middle" width="50" src="https://media.tenor.com/x2XR-ry0FR8AAAAi/maplestory-pink-bean.gif"></a>
-<a><img align="right" width="120" style="vertical-align:middle;margin:0px 50px" src="https://media.tenor.com/X7QofDb7Lu4AAAAC/gpa-gpa-drop.gif"></a>
+<a href="https://kohjiawei.github.io/"><img align="middle" width="50" src="https://media.tenor.com/x2XR-ry0FR8AAAAi/maplestory-pink-bean.gif"></a>
+<a href="https://www.sos.org.sg/"><img align="right" width="120" style="vertical-align:middle;margin:0px 50px" src="https://media.tenor.com/X7QofDb7Lu4AAAAC/gpa-gpa-drop.gif"></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KohJiaWei&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=b24bf3&ring=ffdd4c&border=ffd700)](https://www.linkedin.com/in/kohjiawei#gh-dark-mode-only)
 
@@ -16,9 +16,9 @@
 <!-- By the way, Github sanitization makes it very hard to use hover or scripts :( -->
 
 
-
+<!-- 
 <a><img align="left" width="250" height="400" src="https://media.tenor.com/uLwvYaB7_68AAAAC/convenience-store-pixel-art.gif"></a>
-<a><img align="left" width="250" height="400" src="https://media.tenor.com/cZd414xYaS4AAAAC/gj.gif"></a>
+<a><img align="left" width="250" height="400" src="https://media.tenor.com/cZd414xYaS4AAAAC/gj.gif"></a> -->
 
 <!-- <a><img align="left" width="250" height="400" src="https://media.tenor.com/Yf8G6kDYGAwAAAAC/aesthetic.gif"></a> -->
 <!-- <a><img align="left" width="500" height="400" src="https://media.tenor.com/di4L-rP01kYAAAAC/pixel-art-water-falls.gif"></a> -->
@@ -26,7 +26,8 @@
 
 
 <!-- Video Game Theme -->
-<!-- <a><img align="left" src="https://media.tenor.com/Jo3dyzR9iuwAAAAd/pixel-video-game.gif"></a> -->
+##### What every semester feels like
+<a><img align="left" width="500" src="https://media.tenor.com/Jo3dyzR9iuwAAAAd/pixel-video-game.gif"></a>
 
 
 <!-- Christmas Theme -->
