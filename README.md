@@ -27,7 +27,7 @@
 
 <!-- Video Game Theme -->
 ##### What every semester feels like
-<a><img align="left" width="500" src="https://media.tenor.com/Jo3dyzR9iuwAAAAd/pixel-video-game.gif"></a>
+<a href="https://www.youtube.com/watch?v=Kjhyyf1CB4U"><img align="left" width="500" src="https://media.tenor.com/Jo3dyzR9iuwAAAAd/pixel-video-game.gif"></a>
 
 
 <!-- Christmas Theme -->
