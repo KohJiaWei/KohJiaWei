@@ -3,9 +3,11 @@
 <a href="https://www.sos.org.sg/"><img align="right" width="120" style="vertical-align:middle;margin:0px 50px" src="https://media.tenor.com/X7QofDb7Lu4AAAAC/gpa-gpa-drop.gif"></a>
 
 <br> </br>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=KohJiaWei&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=b24bf3&ring=ffdd4c&border=ffd700)](https://www.linkedin.com/in/kohjiawei#gh-dark-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KohJiaWei&theme=default&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=b24bf3&ring=ffdd4c&border=ffd700)](https://www.linkedin.com/in/kohjiawei#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KohJiaWei&theme=default&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=b24bf3&ring=ffdd4c&border=ffd700)](https://www.linkedin.com/in/kohjiawei#gh-light-mode-only) 
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=KohJiaWei&theme=ayu-light&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://www.linkedin.com/in/kohjiawei#gh-light-mode-only)
  -->
