@@ -14,7 +14,7 @@ I am a Computer Science senior studying at Nanyang Technological University, Sin
 I'm currently working at Defence Science and Technology Agency (DSTA).<br><br>
 Passionate about technology and innovation, I am always looking to tackle new challenges and build impactful projects.<br>
 
-- 🔭 I’m currently working on building a 3D unity game with EEGs as controls for my research paper.
+- 🔭 I’m currently working on building a 3D unity game with your brain waves (EEGs) as controls for my research paper.
 - 🌱 I’m currently learning how to build adversarial models for cybersecurity. 
 - 📫 How to reach me: You can email me at kohjiawei@hotmail.com
 <div align="center">
