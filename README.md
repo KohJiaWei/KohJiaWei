@@ -11,7 +11,6 @@
 
 ### 👨‍💻 About Me:
 I am a Computer Science senior studying at Nanyang Technological University, Singapore.<br>
-I'm currently working at Defence Science and Technology Agency (DSTA).<br><br>
 Passionate about technology and innovation, I am always looking to tackle new challenges and build impactful projects.<br>
 
 - 🔭 I’m currently working on building a 3D unity game with your brain waves (EEGs) as controls for my research paper.
