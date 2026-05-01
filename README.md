@@ -10,11 +10,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kohjiawei/)](https://www.linkedin.com/in/kohjiawei/)
 
 ### 👨‍💻 About Me:
-I am a Computer Science senior studying at Nanyang Technological University, Singapore.<br>
+I majored in Computer Science from Nanyang Technological University, Singapore.<br>
 Passionate about technology and innovation, I am always looking to tackle new challenges and build impactful projects.<br>
 
-- 🔭 I’m currently working on building a 3D unity game with your brain waves (EEGs) as controls for my research paper.
-- 🌱 I’m currently learning how to build adversarial models for cybersecurity. 
+- 🔭 Currently working as a Software Engineer at Bytedance/Tiktok.
+- 🌱 Currently learning how to play the guitar.
 - 📫 How to reach me: You can email me at kohjiawei@hotmail.com
 <div align="center">
 
