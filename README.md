@@ -13,9 +13,9 @@
 I majored in Computer Science from Nanyang Technological University, Singapore.<br>
 Passionate about technology and innovation, I am always looking to tackle new challenges and build impactful projects.<br>
 
-- 🔭 Currently working as a Software Engineer at Bytedance/Tiktok.
-- 🌱 Currently learning how to play the guitar.
-- 📫 How to reach me: You can email me at kohjiawei@hotmail.com
+- Currently working as a Software Engineer at Bytedance/Tiktok.
+- Currently learning how to play the guitar.
+- How to reach me: You can email me at kohjiawei@hotmail.com
 <div align="center">
 
 
