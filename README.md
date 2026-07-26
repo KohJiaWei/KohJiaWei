@@ -8,6 +8,7 @@
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kohjiawei/)](https://www.linkedin.com/in/kohjiawei/)
+[![Website Badge](https://img.shields.io/badge/-Website-blueviolet?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://kohjiawei.github.io/)](https://kohjiawei.github.io/)
 
 ### 👨‍💻 About Me:
 I majored in Computer Science from Nanyang Technological University, Singapore.<br>
